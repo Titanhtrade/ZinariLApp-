@@ -1,0 +1,14 @@
+import React from 'react';
+
+export default function LandingPage() {
+  return (
+    <div className="landing">
+      <h1>Welcome to ZinariLApp 💘</h1>
+      <p>Encrypted intimacy. AI companionship. Mood-based connection.</p>
+      <a href="/signup">
+        <button>Get Started</button>
+      </a>
+      <img src="/assets/qr_invite.png" alt="QR Invite" />
+    </div>
+  );
+}
