@@ -1,0 +1,22 @@
+export const moodThemes = {
+  Romantic: {
+    background: '#ffe4e1',
+    accent: '#ff69b4',
+    font: 'Georgia, serif',
+  },
+  Nude: {
+    background: '#f5f5dc',
+    accent: '#d2b48c',
+    font: 'Courier New, monospace',
+  },
+  Calm: {
+    background: '#e0ffff',
+    accent: '#20b2aa',
+    font: 'Helvetica, sans-serif',
+  },
+  Hard: {
+    background: '#2f2f2f',
+    accent: '#ff0000',
+    font: 'Impact, sans-serif',
+  },
+};
