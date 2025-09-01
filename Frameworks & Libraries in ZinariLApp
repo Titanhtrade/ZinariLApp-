@@ -1,0 +1,37 @@
+🔹 Frontend
+
+• React: Core framework for building the user interface
+• React Native (via Expo): For cross-platform mobile app development
+• Vite: Fast build tool and dev server for React apps
+• Tailwind CSS (optional but recommended): Utility-first styling framework
+
+
+🔹 Backend / Services
+
+• Firebase:• Authentication: Secure user login/signup
+• Firestore: Real-time NoSQL database
+• Firebase Hosting (optional): For static site hosting
+
+
+
+🔹 AI Integration
+
+• OpenRouter API: Connects to OpenAI-compatible models for Luna AI
+• Custom Prompt Engine: Framework for mood-based AI responses
+
+
+🔹 Security
+
+• CryptoJS: For AES encryption of messages
+
+
+🔹 DevOps / CI
+
+• GitHub Actions: Workflow automation for testing and publishing
+• Vercel: Deployment platform (once connected)
+
+Feature	Framework/Tool	Purpose	
+Video Calls	WebRTC + PeerJS	Real-time communication	
+Analytics	Posthog / Firebase Analytics	User behavior tracking	
+QR Invites	qrcode.js	Generate invite-only access	
+UI Components	Radix UI / Headless UI	Accessible, customizable UI	
